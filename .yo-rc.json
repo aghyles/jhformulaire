@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.aghyles.formulairejh"
+    },
+    "jhipsterVersion": "6.4.1",
+    "applicationType": "monolith",
+    "baseName": "jhformulaire",
+    "packageName": "com.aghyles.formulairejh",
+    "packageFolder": "com/aghyles/formulairejh",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZDk4ZDdlN2M2ZTA2YTQ0YjM2NjQyZmY5NWRlMzA0Y2YxMDc4ZTc2ZjkwNmEwMWFkNzJlNWJjYjJiMThjMzJiMDY1ODEzNGEzZWUwZGYyYmRjY2E4ZWNiMWQyODViMjQ2MjM1ZTlmYTI2MDIyMjA5NWMzMTM4YzBiNzUyZDljYjk=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
